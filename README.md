@@ -17,7 +17,7 @@ I care about clean architecture, thoughtful design patterns, and code that the n
 
 When something gets in the way of real work, I'll spin up a quick utility to eliminate the annoyance:
 
-- **[soft-mon](https://github.com/andrew-m-denooyer/soft-mon)** *(coming soon)*: Got tired of enterprise security scans flagging dev machines for CVEs, so I wrote this to automate software updates from our Nexus server. Problem eliminated, back to building.
+- **[soft-mon](https://github.com/andrew-m-denooyer/soft-mon)** *(coming soon)*: Got tired of enterprise security scans flagging dev machines for CVEs, so I wrote this to automate software updates from a Nexus server. Problem eliminated, back to building.
 
 ## 💻 Tech Stack
 
